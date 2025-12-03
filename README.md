@@ -49,3 +49,4 @@ In the local Terminal 6:
 ```bash
 rosrun grasp tuck_arm.py 
 ```
+

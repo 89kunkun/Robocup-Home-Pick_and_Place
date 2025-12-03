@@ -36,6 +36,7 @@ In the local Terminal 4:
 roslaunch grasp grasp_try.launch
 ```
 In the local Terminal 5:
+
 Grasp the bottle:
 ```bash
 roslaunch grasp grasp_left.launch 

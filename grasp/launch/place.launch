@@ -1,0 +1,3 @@
+<launch>
+    <node name="place_node" pkg="grasp" type="place_node" output="screen" />
+</launch>
